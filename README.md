@@ -21,7 +21,6 @@ or from `results/` in the main repo.
 project-docs/
   roadmap.md          milestones, work split, weekly rhythm
   literature.md       paper matrix, how we use each paper, papers to add
-  notion_setup.md     structure of our Notion workspace
 presentations/
   p1/                 Presentation 1 (outline.md + slides)
   p2/                 Presentation 2

@@ -1,7 +1,7 @@
 # Presentation 1 outline (04.11.2026, 7 minutes + 2-4 minutes questions)
 
 Grading expectation: "Introduction to your topic, first ideas". Ten slides maximum; one
-sentence per bullet; every figure comes from the EDA output (first-pass figures in the `eda` repo, `figures/`).
+sentence per bullet; every figure comes from the `eda` repo.
 
 ## Slide 1: Title (15 s)
 
@@ -75,5 +75,5 @@ sentence per bullet; every figure comes from the EDA output (first-pass figures 
 ## Rehearsal checklist
 
 - Time each slide; total under 6:30 to leave buffer.
-- Every number on a slide traceable to a file in the EDA output.
+- Every number on a slide traceable to a file in the `eda` repo.
 - Presenter can answer: why patient-grouped split, why ensembles first, why not evidential DL.

@@ -77,9 +77,9 @@ Everyone, day 1-2
 
 Person A, data and EDA
 - Download PAD-UFES-20 images (Mendeley Data) to /vol/miltank/projects/practical_wise2627/<group>/data.
-- Implement the EDA (plan in the `eda` repo, `docs/eda_plan.md`); polish the figures for the slides.
+- Do the EDA in the `eda` repo; polish the figures for the slides.
 - Implement the patient-grouped 5-fold split; check the per-fold table; commit the split to `data/splits/`.
-- Tabular-only baseline numbers (already in the EDA output) as the "how much information is in the metadata" slide.
+- Tabular-only baseline numbers as the "how much information is in the metadata" slide.
 
 Person B, infrastructure
 - CIT account activation, VPN config with the two extra routes, ssh selene.
