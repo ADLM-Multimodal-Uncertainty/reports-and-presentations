@@ -1,0 +1,18 @@
+# LaTeX build artefacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Office lock files
+~$*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
